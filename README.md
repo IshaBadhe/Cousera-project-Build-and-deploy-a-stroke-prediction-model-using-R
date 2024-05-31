@@ -1,4 +1,4 @@
-# R-programming-project
+# corsera project Build and deploy a stroke prediction model using R
 entry-level health data analyst at a leading health organization, helping to build and deploy a stroke prediction model to enhance clinical decision-making. 
 Project Objectives
 
